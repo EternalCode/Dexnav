@@ -4,7 +4,7 @@ A simplistic gen III implementation of ORAS's Dexnav feature
 ## Building
 
 Requirements (Windows):
-- DevkitARM (4.3, 4.5, or 4.7 https://devkitpro.org/wiki/Getting_Started/devkitARM windows installer here)
+- DevkitPro/ARM (https://devkitpro.org/wiki/Getting_Started/devkitARM windows installer here)
 - Python (Atleast 3.4 https://www.python.org/downloads/)
 - Armips(Latest: https://buildbot.orphis.net/armips/)
 - Visual C++ runtime DLL https://www.microsoft.com/en-ca/download/details.aspx?id=48145
