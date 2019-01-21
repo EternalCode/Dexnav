@@ -1,9 +1,0 @@
-build
-*.i
-src/generated
-roms
-.d
-generated
-make.exe.stackdump
-deps
-output.txt
