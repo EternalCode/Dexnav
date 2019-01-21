@@ -33,7 +33,7 @@ Water vid https://streamable.com/gcr42
 
 Credits:
 - https://github.com/Touched project structure
-- https://github.com/pret string related tools being used
-- https://github.com/Zarel showdown assets such as descriptions and table data
+- https://github.com/pret string related tools and pokeemerald resources
+- Wobb
 - All contributors!
 
