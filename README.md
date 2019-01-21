@@ -19,11 +19,16 @@ Now we can build the project by running `make`.
 If the last line is `Done.` then everything succeeded.
 
 
+
 ## Preview
 Videoes are with low search levels, so HUD is unrevealing.
+
 Grass vid https://streamable.com/k4ot7
+
 Cave vid https://streamable.com/50qix
+
 Water vid https://streamable.com/gcr42
+
 
 
 Credits:
